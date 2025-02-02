@@ -49,7 +49,11 @@ This guide outlines the steps to run the Deepseek language model on your Android
     ollama serve
     ```
 
-8.  **Run Deepseek:** Open a *new* Termux window by swiping left. Start Ubuntu proot again there.
+8.  **Run Deepseek:** Open a *new* Termux window by swiping left.
+  
+    ![new-tab](new-tab.gif)
+
+    Start Ubuntu proot again there.
 
     ```bash
     ./startubuntu.sh
