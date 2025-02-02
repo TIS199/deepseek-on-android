@@ -1,4 +1,4 @@
-# Run Deepseek on Android
+# Run Deepseek locally on Android
 
 This guide outlines the steps to run the Deepseek language model on your Android device using Termux, Ubuntu proot, and Ollama.
 
